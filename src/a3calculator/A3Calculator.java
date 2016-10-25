@@ -13,7 +13,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author Mecaa
+ * @author Mecaa -> FUCKING IDIOT
  */
 public class A3Calculator extends Application {
     
