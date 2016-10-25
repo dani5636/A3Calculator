@@ -33,5 +33,5 @@ public class A3Calculator extends Application {
     public static void main(String[] args) {
         launch(args);
     }
-    //This is a shitty project :( i hate u guys
+    
 }
